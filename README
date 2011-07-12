@@ -1,0 +1,8 @@
+Incendio NEWS Reader
+****************************************************
+****************************************************
+This is a Facebook application that lets its user subscribe to feeds from a choice of 2500 categories comprising 65 million RSS feeds to create his/her own custom news portal. The user can also 'share' news articles with their 'friends' by posting it to their walls. The feed directory is retrieved using JSON from FeedZilla. The Facebook API is used to retrieve user data that are
+required for my app.
+
+A demo of this app is live on
+http://apps.facebook.com/incendio
