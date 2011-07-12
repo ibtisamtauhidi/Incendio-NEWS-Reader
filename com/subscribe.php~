@@ -1,0 +1,10 @@
+<?php
+	class subscribe {
+		var $uid=NULL;
+		var $cat=NULL;
+		var $subcat=NULL;
+		function initialize($u,$c,$s) {
+			$this->uid=$u;
+			$this->cat=$c;
+			$this->subcat=$s;
+		}

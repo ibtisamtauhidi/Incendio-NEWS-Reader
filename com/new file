@@ -1,0 +1,19 @@
+cat.php		:	This returns a JSON string containing list of 
+			available FeedZilla categories.
+
+extra.php	: 	Not yet used
+
+save.php	:	Save article with AJAX drag & drop	or else
+			return saved contents
+
+jsloader.php	:	This loads JS scripts to initialize the JS objects
+			in the main JS file. No direct jQuery call to be made.
+
+retriever.php	:	Returns JSON string of articles
+
+search.php	:	Returns a article-styled JSON string of relevent 
+			results
+
+subcat.php	:	Returns a JSON string of subcat
+
+subscribe.php	:	Subscribes/unsubscribe subcat to/from a user DB.

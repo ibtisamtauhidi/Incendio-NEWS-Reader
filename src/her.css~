@@ -1,0 +1,24 @@
+body {
+	padding: 0px;
+	margin: 0px;
+	}
+#header {
+	background: #1A1A1A;
+	background-image: url("./logo.png");
+	background-repeat: no-repeat;
+	height: 80px;
+	}
+#main_menu {
+	background: #DEE083;
+	height: 35px;
+	border-bottom: 1px solid #1A1A1A;
+	border-top: 1px solid #990000;	
+	}
+#section {
+	background: #D1D8DE;
+	min-height: 500px;
+	}
+#footer {
+	height: 30px;
+	background: #1A1A1A;
+	}
